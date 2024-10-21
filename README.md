@@ -1,7 +1,6 @@
 ## VGGNet
 
-
-Implementation of the VGGNet, proposed on *"Very Deep Convolutional Networks for Large-Scale Image Recognition
+Notes and implementation of the VGGNet, proposed on *"Very Deep Convolutional Networks for Large-Scale Image Recognition
 "* by Simonyan & Zisserman.
 
 ## Usage
